@@ -1,4 +1,4 @@
-
+# DFS Traversal
 adj_list = [[1,3], [0], [3,8], [0,4,5,2], [3,6], [3], [4,7], [6], [2]]
 
 def dfsTraversal(vertex, graph, values, seen):
